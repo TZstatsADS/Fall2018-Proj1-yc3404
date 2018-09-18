@@ -2,6 +2,7 @@
 title: "Stem Completion"
 author: "Arpita Shah and Tian Zheng"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
