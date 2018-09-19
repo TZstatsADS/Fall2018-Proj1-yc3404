@@ -10,10 +10,14 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+#Instructions (read this first)
+#Please run the install packages code chunk first.
+#If you want to see the photo, please uncomment the link, move it outside of the code chunk and set the file location to (../Fall2018-Proj1-yc3404/figs/woman_man.jpg)
 
-&nbsp;
+#![](C:/Users/SHE3/Desktop/Fall2018-Proj1-yc3404/figs/woman_man.jpg)
+```
 
-![](C:/Users/SHE3/Desktop/Fall2018-Proj1-yc3404/figs/woman_man.jpg)
 &nbsp;
 
   If you are a girl just wants to have some fun, what will you do? Maybe go to the hair salon to have a perm, visit the spa to get yourself a classy manicure, or just having a romantic and intimate candle dinner with your boyfriend? Things might get different if you are a boy, maybe a game night will be great for you.
@@ -26,7 +30,7 @@ It can be interesting to observe how the two genders behave differently when per
 ## How about their average happy moments?
 &nbsp;
 
-In order to have a glimpse of the two genders' basic characteristics, the average happy moments per person will be shown below using a bar plot.
+In order to have a glimpse of the two genders'basic characteristics, the average happy moments per person will be shown below using a bar plot.
 &nbsp;
 
 From the plot we can see that the number of men and women is approximately the same, while men have surprisingly *more* happy moments than women. Is this because men tend to act serious all the time but we don't know some minor things have already made them happy inside? I wonder what particular things make men happy. Therefore, let's move to the next stage.
@@ -345,7 +349,11 @@ print_message('m',63309)
 
 + Both genders feel happy when they are with family members.
 
-![](C:/Users/SHE3/Desktop/Fall2018-Proj1-yc3404/figs/family.jpg)
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+#Please uncomment the link and reset the path to ../Fall2018-Proj1-yc3404/figs/family.jpg if you want to see the picture
+
+#![](C:/Users/SHE3/Desktop/Fall2018-Proj1-yc3404/figs/family.jpg)
+```
 &nbsp;
 
 ## References
